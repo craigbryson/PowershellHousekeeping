@@ -4,6 +4,7 @@ This script is designed to be ran as a scheduled task. It will delete files that
 
 The script has two arguments:
 
-` Path: The path to delete files from
-` Retention: The number of days worth of logs to keep (DEFAULT=30)
-
+```
+Path: The path to delete files from
+Retention: The number of days worth of logs to keep (DEFAULT=30)
+```
